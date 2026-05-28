@@ -11,3 +11,9 @@
 ```text
 /goal use the imsg cli to do the same analysis on my sent iMessages on my Mac to see if there is any additional insights you can gain about my writing style. If there are new learnings, add them to the style guide
 ```
+
+## Slack Analysis
+
+```text
+/goal Review this repo, and then run a similar prompt to the email but instead you'll be searching messages I've sent on Slack. Use my connected slack account. Add any learnings to the repo.
+```

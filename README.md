@@ -4,7 +4,7 @@ This repo contains a practical writing style guide for drafting in Josh Ferrara'
 
 ## Files
 
-- `write-like-josh.md` - the main style guide, based on analysis of Josh's personal/work email and sent iMessages.
+- `write-like-josh.md` - the main style guide, based on analysis of Josh's personal/work email, sent iMessages, and sent Slack messages.
 - `prompts.md` - the original prompts used to create and refine the guide.
 
 ## Use
